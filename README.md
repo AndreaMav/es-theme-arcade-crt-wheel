@@ -50,3 +50,6 @@ version 2.2
 - Sinclair Zx Spectrum
 - King Of Air - Collection
 - Auto Favorites - Collection
+
+PREVIEW
+
