@@ -53,3 +53,4 @@ version 2.2
 
 PREVIEW
 
+https://github.com/AndreaMav/es-theme-arcade-crt-wheel/blob/master/arcade%20preview.JPG?raw=true
