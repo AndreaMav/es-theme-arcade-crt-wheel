@@ -1,4 +1,4 @@
-# es-theme-arcade-whell-crt
+# es-theme-arcade-crt-wheel
 
 a special Edition for Arcade System And EmulationStation
 
